@@ -75,7 +75,7 @@
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#81a1c1"],
         "REDESIGN_BUTTON_PRIMARY_TEXT": ["#ebcb8b"],
         "REDESIGN_INPUT_CONTROL_SELECTED": ["#ebcb8b"],
-        "BG_BACKDROP": ["#20242B"],
+        "BG_BACKDROP": ["#2A3038"],
         "PANEL_BG": ["#20242B"],
         "TYPING_INDICATOR_BG": ["#2A3038"],
         "ALERT_BG": ["#2A3038"],
