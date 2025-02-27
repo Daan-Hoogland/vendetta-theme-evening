@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "AestheticIosevka",
+    "previewText": "AestheticIosevka",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-Bold": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-BoldItalic": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Italic%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-ExtraBold": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Italic%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-Medium": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-MediumItalic": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Italic%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-Normal": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-NormalItalic": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Italic%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-Semibold": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Italic%20Nerd%20Font%20Complete%20Mono.ttf",
+        "NotoSans-Bold": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
+        "NotoSans-Medium": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Nerd%20Font%20Complete%20Mono.ttf",
+        "NotoSans-Normal": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Nerd%20Font%20Complete%20Mono.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Italic%20Nerd%20Font%20Complete%20Mono.ttf",
+        "NotoSans-Semibold": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Nerd%20Font%20Complete%20Mono.ttf",
+        "SourceCodePro-Semibold": "https://github.com/Daan-Hoogland/vendetta-theme-evening/raw/refs/heads/dev/fonts/AestheticIosevka%20Bold%20Nerd%20Font%20Complete%20Mono.ttf"
+    }
+}
